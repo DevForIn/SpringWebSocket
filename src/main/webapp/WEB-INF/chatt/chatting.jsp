@@ -12,6 +12,7 @@
 		<h1>WebSocket Chatting</h1>
 		<input type='text' id='mid' value='홍길동'>
 		<input type='button' value='로그인' id='btnLogin'>
+		<input type='button' value='로그아웃' id='btnLogout'>
 		<br/>
 		<div id='talk'></div>
 		<div id='sendZone'>
